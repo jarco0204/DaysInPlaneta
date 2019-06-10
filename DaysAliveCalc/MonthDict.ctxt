@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MonthDict
+comment0.text=\r\n\ This\ is\ a\ class\ consisting\ of\ two\ HashMaps\ that\ links\ the\ String\ Month\ to\ its\ number\ representation,\ and\ then\ to\ its\ days\ in\ it.\r\n\r\n\ @author\ (Johan\ Arcos)\r\n\ @version\ (1.1.1)\r\n
+comment1.params=
+comment1.target=MonthDict()
+comment1.text=\r\n\ Constructor\ of\ the\ class\r\n
+comment2.params=monthName
+comment2.target=int\ getMonthRep(java.lang.String)
+comment2.text=\r\n\ Method\ to\ return\ the\ associated\ value\ of\ the\ month\ String\ representation\ to\ number\r\n\ @param\ String\ the\ name\ of\ the\ month\r\n\ @return\ an\ int\ of\ the\ value\ of\ the\ month\r\n
+comment3.params=monthName
+comment3.target=int\ getDaysInMonth(java.lang.String)
+comment3.text=\r\n\ This\ method\ calculates\ a\ Month\ String\ to\ the\ days\ in\ it\r\n\ @param\ String\ the\ name\ of\ the\ month\r\n\ @return\ an\ int\ representing\ the\ number\ of\ days\r\n
+comment4.params=monthRepre
+comment4.target=int\ getDaysInMonth(int)
+comment4.text=\r\n\ Overloaded\ method\ to\ get\ the\ days\ in\ month\ from\ month\ Int\r\n
+numComments=5

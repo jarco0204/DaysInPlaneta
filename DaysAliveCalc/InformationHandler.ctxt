@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InformationHandler
+comment0.text=\r\n\ In\ ordee\ to\ make\ my\ program\ have\ a\ high\ degree\ of\ cohesion\ and\ low\ coupling,\r\n\ I\ am\ keeping\ the\ GUI\ class\ separate\ from\ every\ other\ function\ \r\n\ that\ deals\ with\ the\ calculation\ of\ the\ variable.\r\n\r\n\ @author\ (Johan\ Arcos)\r\n\ @version\ (1.1.1)\r\n
+comment1.params=day\ month\ year
+comment1.target=InformationHandler(java.lang.Object,\ java.lang.String,\ java.lang.Object)
+comment1.text=\r\n\ This\ constructor\ initializes\ both\ variables\r\n\ \r\n
+comment2.params=
+comment2.target=int\ getMagicalNumber()
+comment2.text=\r\n\ Public\ method\ to\ return\ the\ answer\ calculated\r\n\ @return\ int\r\n
+comment3.params=dayBorn\ monthBorn\ monthRepre\ yearBorn
+comment3.target=void\ calculateDaysBornYear(int,\ java.lang.String,\ int,\ int)
+comment3.text=\r\n\ This\ method\ calculates\ the\ days\ passed\ since\ the\ born\ day\ (INCLUDING)\ to\ the\ end\ of\r\n\ the\ born\ year\r\n\ @param\ int,\ String,\ int,\ int\ (\ day,\ Month,\ MonthAsNumber,\ year)\r\n\ @return\ void\r\n
+comment4.params=bornYear
+comment4.target=void\ calculateDaysYearTillCurrent(int)
+comment4.text=\r\n\ This\ method\ calculates\ the\ days\ passed\ from\ born\ year\ until\ current\ year\r\n\ @param\ int\ representing\ bornYear\r\n\ @\ return\ void\r\n
+comment5.params=
+comment5.target=void\ calculateDaysPassed()
+comment5.text=\r\n\ This\ function\ calculates\ the\ days\ that\ has\ passed\ until\ today\r\n\ @param\ void\r\n\ @return\ void\r\n
+numComments=6

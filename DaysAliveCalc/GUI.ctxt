@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GUI
+comment0.text=\r\n\ This\ program\ has\ the\ job\ of\ calculating\ the\ number\ of\ days\ alive\ of\ someone\r\n\ The\ Algorithm\ is\ simple\ and\ depends\ on\ the\ birthday\ input\ \r\n\r\n\ @author\ (Johan\ Arcos)\r\n\ @version\ (0.0.1)\r\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\r\n\ This\ is\ the\ constructor\ of\ the\ class.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ createMyJLabel()
+comment2.text=\r\n\ This\ function\ helps\ my\ program\ have\ high\ cohesion\ (\ every\ logical\ task\ is\ associated\ with\ an\ specific\ function)\r\n\ @param\ none\r\n\ @return\ void\r\n
+comment3.params=
+comment3.target=void\ createJComboBoxes()
+comment3.text=\r\n\ This\ function\ helps\ my\ program\ have\ high\ cohesion\ (\ every\ logical\ task\ is\ associated\ with\ an\ specific\ function)\r\n\ @param\ none\r\n\ @return\ void\r\n
+comment4.params=
+comment4.target=void\ createJButton()
+comment4.text=\r\n\ This\ function\ helps\ my\ program\ have\ high\ cohesion\ (\ every\ logical\ task\ is\ associated\ with\ an\ specific\ function)\r\n\ @param\ none\r\n\ @return\ void\r\n
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=day\ month\ year
+comment6.target=int\ calculateTheDays(java.lang.Object,\ java.lang.String,\ java.lang.Object)
+comment6.text=\r\n\ This\ is\ a\ private\ function\ that\ performs\ the\ calculation\ of\ how\ many\ days\ one\ has\ been\ alive.\r\n\ @param\ Three\ strings\ representing\ the\ day,month,\ and\ year.\r\n\ @return\ an\ int\ representing\ the\ number\ of\ days\ in\ this\ congruent\ planet.\r\n
+numComments=7
